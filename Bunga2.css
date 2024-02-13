@@ -226,7 +226,7 @@ body {
   width: 9vmin;
   height: 4vmin;
   border-radius: 50%;
-  background-color: hsl(59, 67%, 49%);
+  background-color: hsl(285, 20%, 88%);
 }
 .flower__white-circle::after {
   content: "";
@@ -342,7 +342,7 @@ body {
       transparent 1px,
       transparent 12px
     ),
-    linear-gradient(90deg, hsl(285, 20%, 88%), hsl(285, 20%, 88%)); 
+    linear-gradient(90deg, hsl(59, 67%, 49%), hsl(59, 67%, 49%)); 
 }
 .flower__line {
   height: 55vmin;
@@ -407,7 +407,7 @@ body {
   bottom: 0vmin;
   width: 1vmin;
   height: 1vmin;
-  background-color: #ff0000;
+  background-color: hwb(294 9% 21%);
   border-radius: 50%;
   filter: blur(0.2vmin);
   -webkit-animation: light-ans 4s linear infinite backwards;
